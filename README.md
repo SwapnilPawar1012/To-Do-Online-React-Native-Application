@@ -1,27 +1,27 @@
 # Getting Started
 
-# Installation
+## Installation
 
-# Step 1: react native navigation
+### Step 1: react native navigation
 
 1. Stack navigation
 2. Drawer navigation
 
-# Step 2: react native vector icons
+### Step 2: react native vector icons
 
 1. npm install react-native-vector-icons
 
-# For iOS:
+#### For iOS:
 
 - cd ios && pod install
 
-# For Android:
+#### For Android:
 
 Modify android/app/build.gradle:
 
 - apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
-# Step 3: Date and Time Picker
+### Step 3: Date and Time Picker
 
 - npm install react-native-modal-datetime-picker @react-native-community/datetimepicker
 
@@ -39,30 +39,34 @@ date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric
 // Example: "January 1, 2025"
 );
 
-# Step 4: Snackbar
+### Step 4: Snackbar
 
 - npm install react-native-snackbar
 
-# Step 5: Jwt decode
+### Step 5: Jwt decode
 
 - npm install jwt-decode
 
 
-## Shorthand command
+# Shorthand command
 
 - npm i
 
 
-### To Run Project
+# To Run Project
 
 - npm run android or npm react-native run-android
 
-### *Go To path/To-Do-Online-React-Native-Application/backend folder which contains backend of these Project
+# BACKEND
 
-# Installation
+## *Go To path/To-Do-Online-React-Native-Application/backend folder which contains backend of these Project
+
+### Step 1: Installation
 
 - npm i
 
-# Run Backend Project
+### Step 2: Create .env file and neccessary configurations and others
+
+## Run Backend Project
 
 - npm run start or node index.js
