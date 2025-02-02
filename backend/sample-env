@@ -1,0 +1,3 @@
+PORT = <YOUR-PORT OR 3000>
+MONGO_URI=mongodb+srv://<YOUR-USERNAME>:<YOUR-PASSWORD>@cluster0.seranmj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+SECRET_KEY=<YOUR-SECRET-KEY>
