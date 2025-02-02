@@ -46,3 +46,23 @@ date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric
 # Step 5: Jwt decode
 
 - npm install jwt-decode
+
+
+## Shorthand command
+
+- npm i
+
+
+### To Run Project
+
+- npm run android or npm react-native run-android
+
+### *Go To path/To-Do-Online-React-Native-Application/backend folder which contains backend of these Project
+
+# Installation
+
+- npm i
+
+# Run Backend Project
+
+- npm run start or node index.js
